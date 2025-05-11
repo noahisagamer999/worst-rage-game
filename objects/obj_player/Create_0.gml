@@ -1,0 +1,9 @@
+velh=3.5
+vely=0
+gravstate=0
+can_jump=1
+death=0
+invincible=0
+noclip=0
+springed=0
+capeangle=0

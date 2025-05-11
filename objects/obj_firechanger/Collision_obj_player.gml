@@ -1,0 +1,1 @@
+obj_sun.firestate=1

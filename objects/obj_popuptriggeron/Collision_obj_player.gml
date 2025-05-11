@@ -1,0 +1,1 @@
+obj_popup_manager.state=1

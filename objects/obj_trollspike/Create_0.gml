@@ -1,0 +1,2 @@
+startingx=x
+startingy=y

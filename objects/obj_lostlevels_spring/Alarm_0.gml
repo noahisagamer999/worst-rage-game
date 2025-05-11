@@ -1,0 +1,1 @@
+obj_player.gravstate=2
